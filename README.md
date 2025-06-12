@@ -87,7 +87,8 @@ GROUP BY t5.book_Title, t7.book_copies_No_Of_Copies;
 
 **Rajiv Roy Chowdary Pudota**  
 🎓 BE in ECE | 💡 Aspiring Data Scientist  
-🔗 [LinkedIn](https://www.linkedin.com/rajiv-roy-chowdary-pudota) | 
+🔗 [LinkedIn](https://www.linkedin.com/in/rajiv-roy-chowdary-pudota/) 
+
 
 ---
 
